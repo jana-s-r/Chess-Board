@@ -1,7 +1,7 @@
 
 # Chess-Board
 
-This project demonstrates a simple implementation of a chess board using HTML and CSS.It provides a static representation of a standard 8x8 chess board layout.
+This project demonstrates a simple implementation of a chess board using HTML and CSS. It provides a static representation of a standard 8x8 chess board layout.
 
 
 
