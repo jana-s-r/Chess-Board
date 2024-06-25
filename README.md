@@ -21,9 +21,11 @@ This project demonstrates a simple implementation of a Chess-Board using HTML an
 
 https://jana-s-r.github.io/Chess-Board/
 
-## Preview
+## 🔗 YouTube
 
 Creating Chess-Board Within a Minute Using HTML and CSS Only
+
+[Chess-Board](https://www.youtube.com/watch?v=_2ULxHkSYjo)
 
 [![Chess-Board](https://img.youtube.com/vi/_2ULxHkSYjo/0.jpg)](https://www.youtube.com/watch?v=_2ULxHkSYjo)
 
